@@ -1,0 +1,22 @@
+html {
+  background: url("img/kungfupandabackground.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+p {
+  text-align: center;
+}
+
+.e {
+  padding: 40px;
+  margin: 15px auto;
+  padding: 40px;
+  font-size: 24px;
+  font-family: sans-serif;
+  background-color: rgba(245, 245, 220, 0.637);
+  border: 8px solid;
+  border-color: burlywood;
+  border-radius: 5px;
+  font: blue bold;
+  width: 200px;
+}
